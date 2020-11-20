@@ -1,6 +1,6 @@
 public class Lecture04_casting {public static void main(String[] args) {
     /**
-     *Finding the minimum and maximum value of interger
+     *Finding the minimum and maximum value of integer
      * check with adding a value with maximum value
      * A Byte occupies 8 bit and width is 8
      * A short occupies 16 bit and width is 16
@@ -40,6 +40,7 @@ public class Lecture04_casting {public static void main(String[] args) {
 
     byte myTotal = (byte) (MyMinByteValue/2);
     short myNewByteValue = (short) (MyMinByteValue/2);
+
 
 }
 }
