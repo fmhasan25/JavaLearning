@@ -1,4 +1,4 @@
-public class variables {
+public class Lecture02_variables {
     public static void main(String[] args) {
 
         /**

@@ -1,4 +1,4 @@
-public class ByteShortIntLong {
+public class Lecture03_ByteShortIntLong {
     public static void main(String[] args) {
         /**
          *Finding the minimum and maximum value of interger

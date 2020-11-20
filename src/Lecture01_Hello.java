@@ -1,4 +1,4 @@
-public class Hello {
+public class Lecture01_Hello {
     /**
      * public/private are access modifier
      * {} are class body
