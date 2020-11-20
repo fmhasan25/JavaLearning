@@ -1,4 +1,4 @@
-public class floatAndDouble {
+public class Lecture05_floatAndDouble {
 
     public static void main(String[] args) {
 
