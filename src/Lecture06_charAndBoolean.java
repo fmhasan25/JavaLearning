@@ -13,8 +13,8 @@ public class Lecture06_charAndBoolean {
          * */
 
         char myChar = 'D';
-        char myUniCodeChar = '\u0044';
-        char myCopyrightChar = '\u00A9';
+        char myUniCodeChar = '\u0044'; // from https://unicode-table.com
+        char myCopyrightChar = '\u00A9'; // from https://unicode-table.com
         System.out.println(myChar);
         System.out.println(myUniCodeChar);
         System.out.println(myCopyrightChar);
