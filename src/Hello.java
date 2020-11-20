@@ -16,6 +16,10 @@ public class Hello {
         */
 
         System.out.println("Hello World");
+        /**
+         * Challenge: printing hello tim
+         * */
+        System.out.println("Hello Tim");
 
     }//end of the main method
 
