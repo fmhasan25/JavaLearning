@@ -13,11 +13,13 @@ public class floatAndDouble {
         System.out.println("Double minimum value = "+myMaxDoubleValue);
 
 
-        int myIntValue = 5;
-        float myFloatValue = 5.25f;
-        double myDoubleValue = 5.25d;
+        int myIntValue = 5 / 3;
+        float myFloatValue = 5f / 3f;
+        double myDoubleValue = 5d / 3d;
 
-
+        System.out.println("My int value "+ myIntValue);
+        System.out.println("My float value "+ myFloatValue);
+        System.out.println("My double value "+ myDoubleValue);
 
     }//end of the main method
 }//end of the java class
