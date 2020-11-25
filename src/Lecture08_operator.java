@@ -9,9 +9,20 @@ public class Lecture08_operator {
         result = result *10;
         System.out.println("result * 10 = "+result);
         result = result/2;
-        System.out.println("result / 2 ="+ result);
+        System.out.println("result / 2 = "+ result);
         result = result % 4;
         System.out.println("result % 4 = "+ result);
-
+        result ++ ;
+        System.out.println("result ++ : "+result);
+        result -- ;
+        System.out.println("result -- : "+result);
+        result +=2;
+        System.out.println("result +=2 : "+result);
+        result *= 10;
+        System.out.println("result *=10 : "+result);
+        result /=3;
+        System.out.println("result/=3: "+result);
+        result-=2;
+        System.out.println("result-=2: "+result);
     }
 }
