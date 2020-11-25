@@ -24,5 +24,15 @@ public class Lecture08_operator {
         System.out.println("result/=3: "+result);
         result-=2;
         System.out.println("result-=2: "+result);
+
+        /**
+         * After if condition if semicolon is used the expected condition will no longer have
+         * the relation with the logic
+         * Code block can be used for multiple output
+         * */
+        boolean isAlien = false;
+        if(isAlien == false)
+            System.out.println("It is not an alien!");
+
     }
 }
